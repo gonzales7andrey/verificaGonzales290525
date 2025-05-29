@@ -1,6 +1,6 @@
 public class Fattore2 extends Thread {
     private double b; // valore
-    // (5b - 7) 
+    // (5b - 7) espressione
     public Fattore2(double b){
         this.b = b;
     }
